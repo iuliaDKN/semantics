@@ -1,2 +1,2 @@
 # semantics
-Это учебный проект HTML only
+Это учебный проект, HTML only
